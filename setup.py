@@ -162,6 +162,7 @@ _deps = [
     "safetensors>=0.3.1",
     "sagemaker>=2.31.0",
     "scikit-learn",
+    "sophia-optimizer",
     "sentencepiece>=0.1.91,!=0.1.92",
     "sigopt",
     "starlette",
